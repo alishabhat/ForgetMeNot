@@ -18,7 +18,7 @@ class FirstViewController: UIViewController {
       //      super.didReceiveMemoryWarning()
     override func viewDidLoad() {
            super.viewDidLoad()
-        button1.applyDesign()
+       /* button1.applyDesign()
            // Do any additional setup after loading the view.
       
     }
@@ -57,10 +57,13 @@ class FirstViewController: UIViewController {
 
 extension UIButton{
     func applyDesign() {
-    self.layer.cornerRadius = 12
+    self.layer.cornerRadius = 12*/
 
 
 
 }
+
+    
+    
 }
 
